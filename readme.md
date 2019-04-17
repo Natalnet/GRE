@@ -13,10 +13,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Pesquisadores
 
-1. Brenda
-1. Debora
-  1. Larissa
-     1. ?
+* Brenda
+* Debora
+  - Larissa
+     + ?
   - Diego
      + ?
   - Debora IMD
