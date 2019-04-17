@@ -14,7 +14,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Pesquisadores
 
 * Brenda
- * Diego
+  - Diego
 
 <ul>
  <li>
