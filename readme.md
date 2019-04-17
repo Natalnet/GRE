@@ -14,28 +14,15 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Pesquisadores
 
 * Brenda
-  - Diego
-    + joao
-
-<ul>
- <li>
-    Brenda
-   <ul>
-   </ul>
- </li>
- <li>
-   Debora
-   <ul>
-      <li>
-         Rodrigo Luz
-            <ul>
-            </ul>
-      </li>
-   </ul>
- </li>
-</ul>
-
 * Debora
+  - Larissa
+     + ?
+  - Diego
+     + ?
+  - Debora IMD
+     + ?
+  - Rodrigo Luz
+     + ?
 
 ## Membros
 
