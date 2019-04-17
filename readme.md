@@ -12,6 +12,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Rummenigge Dantas
 
 ## Pesquisadores
+
+*. Brenda
+   *. Diego
+
 <ul>
  <li>
     Brenda
@@ -23,6 +27,8 @@ O Objetivo é formação de recursos humanos nas áreas de:
    <ul>
       <li>
          Rodrigo Luz
+            <ul>
+            </ul>
       </li>
    </ul>
  </li>
