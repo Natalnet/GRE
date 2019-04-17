@@ -41,7 +41,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 - Introdução a Arduino
 - Introdução a Pensamento Computacional
 - Introdução a Computação Desplugada;
-### Intermédiário
+### Intermeiário
 - ...
 ### Avançado
 - ...
