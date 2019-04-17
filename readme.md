@@ -26,8 +26,8 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Projetos
 
-### URA - Um Robô por Aluno
-### Robótica no NEI
+1. URA - Um Robô por Aluno
+1. Robótica no NEI
 
 ## Candidatos
 
