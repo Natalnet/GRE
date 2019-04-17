@@ -15,6 +15,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Brenda
 * Debora
 
+## Membros
+
+## Candidatos
+
 ## Apresentação 
 
 ## Módulos 
