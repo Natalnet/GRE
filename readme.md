@@ -11,8 +11,23 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Akynara Aglaé
 * Rummenigge Dantas
 
-## Lideres
-* Brenda
+## Pesquisadores
+<ul>
+ <li>
+    Brenda
+   <ul>
+   </ul>
+ </li>
+ <li>
+   Debora
+   <ul>
+      <li>
+         Rodrigo Luz
+      </li>
+   </ul>
+ </li>
+</ul>
+
 * Debora
 
 ## Membros
