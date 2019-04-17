@@ -36,7 +36,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Módulos 
 
 ### Básico
-- Introdução a Robótica Educacional
+- [Introdução a Robótica Educacional](https://github.com/Natalnet/ModulosDeEstudo/tree/master/IntroducaoARoboticaEducacional)
 - Introdução a kits Lego Mindstorm
 - Introdução a Arduino
 - Introdução a Pensamento Computacional
