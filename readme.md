@@ -16,13 +16,9 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Brenda
 * Debora
   - Larissa
-     + ?
-  - Diego
-     + ?
-  - Debora IMD
-     + ?
-  - Rodrigo Luz
-     + ?
+     + Diego
+     + Debora IMD
+     + Rodrigo Luz
 
 ## Projetos
 
