@@ -24,7 +24,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
   - Rodrigo Luz
      + ?
 
-## Membros
+## Projetos
+
+### URA - Um Robô por Aluno
+### Robótica no NEI
 
 ## Candidatos
 
