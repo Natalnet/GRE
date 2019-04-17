@@ -15,6 +15,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 * Brenda
   - Diego
+    + joao
 
 <ul>
  <li>
