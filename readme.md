@@ -34,7 +34,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 - Introdução a Pensamento Computacional
 - Introdução a Computação Desplugada;
 - Robótica Educacional aplicada a Educação Infantil
-### Intermeiário
+### Intermediário
 - ...
 ### Avançado
 - ...
