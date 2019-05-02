@@ -20,11 +20,6 @@ O Objetivo é formação de recursos humanos nas áreas de:
      + Debora IMD
      + Rodrigo Luz
 
-## Projetos
-
-1. URA - Um Robô por Aluno
-1. Robótica no NEI
-
 ## Módulos 
 
 ### Básico
