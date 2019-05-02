@@ -34,7 +34,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ### Avançado
 - ...
 
-### Publicações do Grupo
+## Publicações do Grupo
 
 ### 2006
 Barrios-Aranibar, Dennis ; CASTRO, Viviane Gurgel de ; Santos, Marcela G. ; ARAÚJO, Gianna Rodrigues de ; ROZA, Valber Cesar Cavalcanti ; Nascimento, Rafaella C. A. ; SILVA, Alzira F. ; Silva, Akynara R. S. ; GONCALVES, L. . RoboEduc: a software for teaching robotics to technological excluded children using LEGO prototypes. In: IEEE Latin American Robotics Symposium, 2006, Santiago. Proceedings of IEEE LARS 2006. Santiago: Universidad de Chile, 2006. v. 1. p. 193-199. https://ieeexplore.ieee.org/document/4133834
