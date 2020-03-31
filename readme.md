@@ -112,24 +112,27 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 ## Bibliografia para estudos
 
-. Learning Programming Using Educational Robotics
+### . Learning Programming Using Educational Robotics
 
-. A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
+### . A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
 
-. Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
+### . Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
 
 . MicroPython-based Educational Mobile Robot for Computer Coding Learning (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781) 
 
 . Ensinando cinemática através da análise de movimentos em vídeos de captura de games (https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A) 
 
 . Low-cost educational robotics applied to physics teaching in Brazil (https://arxiv.org/pdf/1411.5304.pdf) 
-Uma abordagem construcionista da utilização dos computadores na educação (http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Thais-Cristina-Alves-Costa.pdf)
+
+. Uma abordagem construcionista da utilização dos computadores na educação (http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Thais-Cristina-Alves-Costa.pdf)
 
 . Uma análise crítica do ensino de Física, http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142018000300073 
-RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira http://www.br-ie.org/pub/index.php/rbie/article/view/1275/1126 
 
-. Researches on Using Robots in Education (https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57) 
-A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC (http://sbfisica.org.br/rbef/pdf/331702.pdf) 
+. RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira http://www.br-ie.org/pub/index.php/rbie/article/view/1275/1126 
+
+. Researches on Using Robots in Education (https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57)
+
+. A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC (http://sbfisica.org.br/rbef/pdf/331702.pdf) 
 
 . Exploring the educational potential of robotics in schools: A systematic review (https://www.sciencedirect.com/science/article/pii/S0360131511002508) 
 
