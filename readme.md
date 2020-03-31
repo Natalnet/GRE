@@ -110,51 +110,52 @@ DA CUNHA RIBEIRO, WILLIAM ; V. SANTANA, ORIVALDO ; M.F. BURLAMAQUI, AQUILES ; CA
 Burlamaqui, Akynara; Burlamaqui, Aquiles. Robótica Educacional a Distância 
 SEMEAD - Distance education: context, technology and knowledge building https://ead.ifrn.edu.br
 
-##Bibliografia para estudos
+## Bibliografia para estudos
 
-Learning Programming Using Educational Robotics( 
-A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
+. Learning Programming Using Educational Robotics
 
-Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
+. A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
 
-MicroPython-based Educational Mobile Robot for Computer Coding Learning (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781) 
+. Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
 
-Ensinando cinemática através da análise de movimentos em vídeos de captura de games (https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A) 
+. MicroPython-based Educational Mobile Robot for Computer Coding Learning (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781) 
 
-Low-cost educational robotics applied to physics teaching in Brazil (https://arxiv.org/pdf/1411.5304.pdf) 
+. Ensinando cinemática através da análise de movimentos em vídeos de captura de games (https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A) 
+
+. Low-cost educational robotics applied to physics teaching in Brazil (https://arxiv.org/pdf/1411.5304.pdf) 
 Uma abordagem construcionista da utilização dos computadores na educação (http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Thais-Cristina-Alves-Costa.pdf)
 
-Uma análise crítica do ensino de Física, http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142018000300073 
+. Uma análise crítica do ensino de Física, http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142018000300073 
 RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira http://www.br-ie.org/pub/index.php/rbie/article/view/1275/1126 
 
-Researches on Using Robots in Education (https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57) 
+. Researches on Using Robots in Education (https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57) 
 A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC (http://sbfisica.org.br/rbef/pdf/331702.pdf) 
 
-Exploring the educational potential of robotics in schools: A systematic review (https://www.sciencedirect.com/science/article/pii/S0360131511002508) 
+. Exploring the educational potential of robotics in schools: A systematic review (https://www.sciencedirect.com/science/article/pii/S0360131511002508) 
 
-A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education (https://drive.google.com/open?id=1ZN5wrxn_--SrH_Dvy0JEJh5NRn-IUEQc) 
+. A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education (https://drive.google.com/open?id=1ZN5wrxn_--SrH_Dvy0JEJh5NRn-IUEQc) 
 
-Using robotics in kinematics classes: exploring braking and stopping distances  (https://drive.google.com/open?id=1kG8HVmA6hI6yRMeoVSC_njQYPYJ8oLW8) 
+. Using robotics in kinematics classes: exploring braking and stopping distances  (https://drive.google.com/open?id=1kG8HVmA6hI6yRMeoVSC_njQYPYJ8oLW8) 
 
-Cloud based low cost educational robot (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6766552)
+. Cloud based low cost educational robot (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6766552)
 
-ROBÓTICA EDUCACIONAL NO ENSINO DE FÍSICA (http://bit.ly/2uEquNO) 
+. ROBÓTICA EDUCACIONAL NO ENSINO DE FÍSICA (http://bit.ly/2uEquNO) 
 
-A Robótica Educacional em Experimentos Elementares de Física (https://instrumento.ufjf.emnuvens.com.br/revistainstrumento/article/viewFile/1911/1351) 
+. A Robótica Educacional em Experimentos Elementares de Física (https://instrumento.ufjf.emnuvens.com.br/revistainstrumento/article/viewFile/1911/1351) 
 
-Computação na Educação Básica no Brasil: o Estado daArte  http://seer.ufrgs.br/rita/article/view/RITA-VOL23-NR2-210/39367 
+. Computação na Educação Básica no Brasil: o Estado daArte  http://seer.ufrgs.br/rita/article/view/RITA-VOL23-NR2-210/39367 
 
-Ambiente de Robótica Pedagógica com Br_GOGO e Computadores de Baixo Custo: Uma Contribuição para o Ensino Médio  http://www.lbd.dcc.ufmg.br/colecoes/sbie/2011/0014.pdf  
+. Ambiente de Robótica Pedagógica com Br_GOGO e Computadores de Baixo Custo: Uma Contribuição para o Ensino Médio  http://www.lbd.dcc.ufmg.br/colecoes/sbie/2011/0014.pdf  
 
-Papert, Seymour (1993), The children’s machine: Rethinking school in the age of the computer.
+. Papert, Seymour (1993), The children’s machine: Rethinking school in the age of the computer.
 
-Papert, Seymour, Jose Armando Valente & Beatriz Bitelman (1980), Logo: computadores e educação 
+. Papert, Seymour, Jose Armando Valente & Beatriz Bitelman (1980), Logo: computadores e educação 
 
-Papert, Seymour et al. (1999), ‘Logo philosophy and implementation
+. Papert, Seymour et al. (1999), ‘Logo philosophy and implementation
 
-ANÁLISE DO PROCESSO METODOLÓGICO DE MONTAGEM DE UM BRINQUEDO DE PROGRAMAR (http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf)
+. ANÁLISE DO PROCESSO METODOLÓGICO DE MONTAGEM DE UM BRINQUEDO DE PROGRAMAR (http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf)
 
-ROBÓTICA EDUCACIONAL - POTENCIALIZANDO O ENSINO DA MATEMÁTICA 
+. ROBÓTICA EDUCACIONAL - POTENCIALIZANDO O ENSINO DA MATEMÁTICA 
 (http://uenf.br/posgraduacao/matematica/wp-content/uploads/sites/14/2017/09/29072014Flavio-Miranda-dos-Santos.pdf)
 
 
