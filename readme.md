@@ -112,11 +112,11 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 ## Bibliografia para estudos
 
-### * Learning Programming Using Educational Robotics
+* Learning Programming Using Educational Robotics
 
-### * A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
+* A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
 
-### * Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
+* Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
 
 * MicroPython-based Educational Mobile Robot for Computer Coding Learning (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781) 
 
