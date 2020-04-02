@@ -154,7 +154,7 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 * PAPERT, Seymour. LOGO: philosophy and implementation. 1999.  Disponível em: http://www.microworlds.com/company/philosophy.pdf
 
-SANTANA, A. L. M. Análise do Processo Metodológico de Montagem de um Brinquedo de Programar. 2015. Dissertação (Mestrado em Computação Aplicada) —  Universidade do Vale do Itajaí, Itajaí. http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf
+* SANTANA, A. L. M. Análise do Processo Metodológico de Montagem de um Brinquedo de Programar. 2015. Dissertação (Mestrado em Computação Aplicada) —  Universidade do Vale do Itajaí, Itajaí. http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf
 
 * SANTOS, F. M. Robótica Educacional - Potencializando o Ensino da Matemática. 2014. Dissertação (Mestrado em Matemática) — Centro de Ciências e Tecnologia, Universidade Estadual do Norte Fluminense, Campos dos Goytacazes. http://uenf.br/posgraduacao/matematica/wp-content/uploads/sites/14/2017/09/29072014Flavio-Miranda-dos-Santos.pdf 
 
