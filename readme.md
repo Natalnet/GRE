@@ -112,53 +112,53 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 ## Bibliografia para estudos
 
-* Learning Programming Using Educational Robotics
+* APARICIO, J. T. et al. Learning Programming Using Educational Robotics. In: 2019 14th Iberian Conference on Information Systems and Technologies  (CISTI), 2019, Coimbra. https://ieeexplore.ieee.org/abstract/document/8760709 
 
-* A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments (http://dpi-proceedings.com/index.php/dtetr/article/view/16221) 
+* HU, H. A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments. In: 2017 2nd International Conference on Applied Mechanics, Electronics and Mechatronics Engineering (AMEME 2017), 2017, Lancaster. http://dpi-proceedings.com/index.php/dtetr/article/view/16221
 
-* Using robotics in kinematics classes: exploring braking and stopping distances (https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od) 
+* BROCKINGTON, G. et al. Using robotics in kinematics classes: exploring braking and stopping distances. Disponível em: https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od
 
-* MicroPython-based Educational Mobile Robot for Computer Coding Learning (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781) 
+* KHAMPHROO, M. et al. MicroPython-based Educational Mobile Robot for Computer Coding Learning. In: 2017 8th International Conference of Information and Communication Technology for Embedded Systems(IC-ICTES), 2017, Chonburi. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781
 
-* Ensinando cinemática através da análise de movimentos em vídeos de captura de games (https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A) 
+* SILVA NETO, M. C. Ensinando cinemática através da análise de movimentos em vídeos de captura de games. 2016. Dissertação (Mestrado Profissional de Ensino de Física) — Instituto de Ciências Exatas, Universidade Federal Fluminense, Volta Redonda. https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A
 
-* Low-cost educational robotics applied to physics teaching in Brazil (https://arxiv.org/pdf/1411.5304.pdf) 
+* SOUZA, M. A. M.; DUARTE,  J. R. R. Low-cost educational robotics applied to physics teaching in Brazil. Disponível em: https://arxiv.org/pdf/1411.5304.pdf
 
-* Uma abordagem construcionista da utilização dos computadores na educação (http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Thais-Cristina-Alves-Costa.pdf)
+* COSTA, Thais C. A. Uma abordagem construcionista da utilização dos computadores na educação. In: 3º Simpósio Hipertexto e Tecnologias na Educação, 2010, Recife. http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Thais-Cristina-Alves-Costa.pdf
 
-* Uma análise crítica do ensino de Física, (http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142018000300073) 
+* MOREIRA, M. A. Uma análise crítica do ensino de Física. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142018000300073
 
-* RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira (http://www.br-ie.org/pub/index.php/rbie/article/view/1275/1126) 
+* MIRANDA, L. C.; SAMPAIO, F. F.; BORGES, J. A. S.  RoboFácil: Especificação e Implementação de um Kit de Robótica para a Realidade Educacional Brasileira. Revista Brasileira de Informática na Educação, v. 18, n. 3, p. 46-58, 2010. http://www.br-ie.org/pub/index.php/rbie/article/view/1275/1126
 
-* Researches on Using Robots in Education (https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57)
+* LI, LY.; CHANG, CW.; CHEN, GD. Researches on Using Robots in Education. Disponível em: https://link.springer.com/chapter/10.1007%2F978-3-642-03364-3_57
 
-* A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC (http://sbfisica.org.br/rbef/pdf/331702.pdf) 
+* SOUZA, A. R. et al. A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC. Revista Brasileira de Ensino de Física, v. 33, n. 1, 1702, 2011. http://sbfisica.org.br/rbef/pdf/331702.pdf
 
-* Exploring the educational potential of robotics in schools: A systematic review (https://www.sciencedirect.com/science/article/pii/S0360131511002508) 
+* BENITTI, F. B. V. Exploring the educational potential of robotics in schools: A systematic review. Disponível em: https://www.sciencedirect.com/science/article/pii/S0360131511002508
 
-* A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education (https://drive.google.com/open?id=1ZN5wrxn_--SrH_Dvy0JEJh5NRn-IUEQc) 
+* YU, J. et al. A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education. In: 2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, Singapore. https://drive.google.com/open?id=1ZN5wrxn_--SrH_Dvy0JEJh5NRn-IUEQc
 
-* Using robotics in kinematics classes: exploring braking and stopping distances  (https://drive.google.com/open?id=1kG8HVmA6hI6yRMeoVSC_njQYPYJ8oLW8) 
+* AROCA, R. V. et al. Cloud based low cost educational robot. In: 2013 16th International Conference on Advanced Robotics (ICAR), 2013, Montevideo. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6766552
 
-* Cloud based low cost educational robot (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6766552)
+* RABELO, A. P. S. Robótica Educacional no Ensino de Física. 2016. Dissertação (Mestrado Nacional Profissional em Ensino de Física) — Universidade Federal de Goiás, Catalão. http://bit.ly/2uEquNO
 
-* ROBÓTICA EDUCACIONAL NO ENSINO DE FÍSICA (http://bit.ly/2uEquNO) 
+* STOPPA, M. H. A Robótica Educacional em Experimentos Elementares de Física. Instrumento: R. Est. Pesq. Educ. Juiz de Fora, v. 14, n. 1, p. 115-124, 2012. https://periodicos.ufjf.br/index.php/revistainstrumento/article/view/18747 
 
-* A Robótica Educacional em Experimentos Elementares de Física (https://instrumento.ufjf.emnuvens.com.br/revistainstrumento/article/viewFile/1911/1351) 
+* BORDINI, A. et al. Computação na Educação Básica no Brasil: o Estado da Arte. Revista de Informática Teórica e Aplicada, v. 23, n. 2, p. 210-238, 2016.  http://seer.ufrgs.br/rita/article/view/RITA-VOL23-NR2-210/39367
 
-* Computação na Educação Básica no Brasil: o Estado daArte  (http://seer.ufrgs.br/rita/article/view/RITA-VOL23-NR2-210/39367) 
+* VIEGAS, J. V.; MIRISOLA, L. G. B.; RAMOS, J. Ambiente de Robótica Pedagógica com Br_GOGO e Computadores de Baixo Custo: Uma Contribuição para o Ensino Médio. In: XXII SBIE - XVII WIE - Simposio Brasileiro em Informatica na Educação, 2011, Aracajú. http://www.lbd.dcc.ufmg.br/colecoes/sbie/2011/0014.pdf
 
-* Ambiente de Robótica Pedagógica com Br_GOGO e Computadores de Baixo Custo: Uma Contribuição para o Ensino Médio ( http://www.lbd.dcc.ufmg.br/colecoes/sbie/2011/0014.pdf)  
+* PAPERT, Seymour, The children’s machine: Rethinking school in the age of the computer. Nova York: Basic Books, 1993. https://learn.media.mit.edu/lcl/resources/readings/childrens-machine.pdf
 
-* Papert, Seymour (1993), The children’s machine: Rethinking school in the age of the computer.
+* PAPERT, Seymour. LOGO: computadores e educação. Trad. José Armando Valente; Beatriz Bitelman; Afira Vianna Riper. São Paulo: Brasiliense, 1985.
 
-* Papert, Seymour, Jose Armando Valente & Beatriz Bitelman (1980), Logo: computadores e educação 
+* PAPERT, Seymour. LOGO: philosophy and implementation. 1999.  Disponível em: http://www.microworlds.com/company/philosophy.pdf
 
-* Papert, Seymour et al. (1999), ‘Logo philosophy and implementation
+SANTANA, A. L. M. Análise do Processo Metodológico de Montagem de um Brinquedo de Programar. 2015. Dissertação (Mestrado em Computação Aplicada) —  Universidade do Vale do Itajaí, Itajaí. http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf
 
-* ANÁLISE DO PROCESSO METODOLÓGICO DE MONTAGEM DE UM BRINQUEDO DE PROGRAMAR (http://lite.acad.univali.br/wp-content/uploads/material/DissertacaoASantana.pdf)
+* SANTOS, F. M. Robótica Educacional - Potencializando o Ensino da Matemática. 2014. Dissertação (Mestrado em Matemática) — Centro de Ciências e Tecnologia, Universidade Estadual do Norte Fluminense, Campos dos Goytacazes. http://uenf.br/posgraduacao/matematica/wp-content/uploads/sites/14/2017/09/29072014Flavio-Miranda-dos-Santos.pdf 
 
-* ROBÓTICA EDUCACIONAL - POTENCIALIZANDO O ENSINO DA MATEMÁTICA 
-(http://uenf.br/posgraduacao/matematica/wp-content/uploads/sites/14/2017/09/29072014Flavio-Miranda-dos-Santos.pdf)
+* VALENTE, J. A.; FREIRE, F. M. P.; ARANTES, F. L. Computadores e Educação: passado, presente e o que está por vir. São Paulo: NIED/UNICAMP, 1985. https://www.nied.unicamp.br/wp-content/uploads/2018/11/Livro-NIED-2018-final.pdf
+
 
 
