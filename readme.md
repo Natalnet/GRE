@@ -112,13 +112,13 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 ## Bibliografia para estudos
 
-* APARICIO, J. T. et al. Learning Programming Using Educational Robotics. In: 2019 14th Iberian Conference on Information Systems and Technologies  (CISTI), 2019, Coimbra. https://ieeexplore.ieee.org/abstract/document/8760709 
+* APARICIO, J. T. et al. Learning Programming Using Educational Robotics. In: 2019 14th Iberian Conference on Information Systems and Technologies  (CISTI), 2019, Coimbra. https://drive.google.com/file/d/1-HR7LQHbsUbQl1iJob3yg0iBv-HM80g6/view?usp=sharing
 
 * HU, H. A Low-Cost Autonomous Robot and Educational Platform for Intelligent Automation Experiments. In: 2017 2nd International Conference on Applied Mechanics, Electronics and Mechatronics Engineering (AMEME 2017), 2017, Lancaster. http://dpi-proceedings.com/index.php/dtetr/article/view/16221
 
 * BROCKINGTON, G. et al. Using robotics in kinematics classes: exploring braking and stopping distances. Disponível em: https://drive.google.com/open?id=1Hl7Tv1f_dr7GRy9UBNv8kKyhY6CCc4Od
 
-* KHAMPHROO, M. et al. MicroPython-based Educational Mobile Robot for Computer Coding Learning. In: 2017 8th International Conference of Information and Communication Technology for Embedded Systems(IC-ICTES), 2017, Chonburi. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958781
+* KHAMPHROO, M. et al. MicroPython-based Educational Mobile Robot for Computer Coding Learning. In: 2017 8th International Conference of Information and Communication Technology for Embedded Systems(IC-ICTES), 2017, Chonburi. https://drive.google.com/file/d/1FCzK4IiM82Ks3yGzKbda-cnExMKfBUg0/view?usp=sharing
 
 * SILVA NETO, M. C. Ensinando cinemática através da análise de movimentos em vídeos de captura de games. 2016. Dissertação (Mestrado Profissional de Ensino de Física) — Instituto de Ciências Exatas, Universidade Federal Fluminense, Volta Redonda. https://drive.google.com/open?id=1x3-NUKdFh-xOLGlyLXNNEvf7SCGu5W4A
 
@@ -134,11 +134,11 @@ SEMEAD - Distance education: context, technology and knowledge building https://
 
 * SOUZA, A. R. et al. A placa Arduino: uma opção de baixo custo para experiências de física assistidas pelo PC. Revista Brasileira de Ensino de Física, v. 33, n. 1, 1702, 2011. http://sbfisica.org.br/rbef/pdf/331702.pdf
 
-* BENITTI, F. B. V. Exploring the educational potential of robotics in schools: A systematic review. Disponível em: https://www.sciencedirect.com/science/article/pii/S0360131511002508
+* BENITTI, F. B. V. Exploring the educational potential of robotics in schools: A systematic review. Disponível em: https://drive.google.com/file/d/1J-GEUYJFdc55jsiQgYKzNZzTerXUyeuT/view?usp=sharing
 
 * YU, J. et al. A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education. In: 2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, Singapore. https://drive.google.com/open?id=1ZN5wrxn_--SrH_Dvy0JEJh5NRn-IUEQc
 
-* AROCA, R. V. et al. Cloud based low cost educational robot. In: 2013 16th International Conference on Advanced Robotics (ICAR), 2013, Montevideo. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6766552
+* AROCA, R. V. et al. Cloud based low cost educational robot. In: 2013 16th International Conference on Advanced Robotics (ICAR), 2013, Montevideo. https://drive.google.com/file/d/101vJ6grKpa0NlVpV8Njh0ep-PJaBGxJn/view?usp=sharing
 
 * RABELO, A. P. S. Robótica Educacional no Ensino de Física. 2016. Dissertação (Mestrado Nacional Profissional em Ensino de Física) — Universidade Federal de Goiás, Catalão. http://bit.ly/2uEquNO
 
