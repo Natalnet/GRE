@@ -6,6 +6,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Robótica Educacional, Pensamento Computacional e Computação desplugada;
 
 ## Professores Orientadores
+* Luiz Marcos
 * Aquiles Burlamaqui
 * Orivaldo Santana
 * Akynara Aglaé
